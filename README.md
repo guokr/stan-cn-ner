@@ -5,7 +5,7 @@ stan-cn-* package family is packages based on Stanford NLP packages for the
 convenience of Chinese users. This package provide a Chinese naming entity
 recognizor.
 
-stan-cn-* package family is include:
+stan-cn-* package family is including:
 
 * stan-cn-com: Common code base
 * stan-cn-seg: Chinese segmentation and related data model
@@ -40,5 +40,5 @@ Before release this package to maven central, please execute below commands:
 License
 --------
 
-GPLv2, just as Stanford CoreNLP package
+GPLv2, just same as the license of Stanford CoreNLP package
 
