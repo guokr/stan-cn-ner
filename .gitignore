@@ -3,6 +3,10 @@
 .lein-deps-sum
 .lein-failures
 
+.classpath
+.project
+.settings/
+
 dependency-reduced-pom.xml
 
 # OS generated files #

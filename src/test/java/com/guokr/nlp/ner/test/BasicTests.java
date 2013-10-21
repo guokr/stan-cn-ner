@@ -1,4 +1,4 @@
-package com.guokr.nlp.test;
+package com.guokr.nlp.ner.test;
 
 import java.lang.reflect.Method;
 
