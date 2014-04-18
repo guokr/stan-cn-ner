@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.guokr</groupId>
   <artifactId>stan-cn-ner</artifactId>
-  <version>0.0.4-SNAPSHOT</version>
+  <version>0.0.4</version>
   <packaging>jar</packaging>
   <name>stan-cn-ner</name>
   <description>An API wrapper based on Stanford Core NLP package for Simplified Chinese users</description>
