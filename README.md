@@ -22,7 +22,7 @@ The burden is not too much, but if you deploy these packages to a server
 cluster, this burden might be amplified.
 
 Whatever you face a single node or a server farm, it would be a pleasurable
-solution to provide a packages with default settings of Chinese language
+solution to provide packages with default settings of Chinese language
 models. That is what we do.
 
 Comments, reviews, bug reports and patches are welcomed.
