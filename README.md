@@ -11,6 +11,20 @@ stan-cn-* family are including:
 * stan-cn-ner: Naming entity recognization and related data model
 * stan-cn-tag: POS tagging and related data model
 
+Purpose of the package
+-----------------------
+
+The original Stanford CoreNLP packages with default language settings in Maven
+central is only for English. If you are dealing with simplified Chinese, you
+still need to download the Chinese model and fix some configuration files.
+
+The burden is not too much, but if you deploy these packages to a server
+cluster, this burden might be amplified.
+
+Whatever you face a single node or a server farm, it would be a pleasurable
+solution to provide a packages with default settings of Chinese language
+models. That is what we do.
+
 Comments, reviews, bug reports and patches are welcomed.
 
 Current version
