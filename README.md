@@ -30,7 +30,7 @@ Comments, reviews, bug reports and patches are welcomed.
 Current version
 ----------------
 
-Current version is 0.0.4 and based on Stanford CoreNLP 3.2.0 with minor fixes.
+Current version is 0.0.6 and based on Stanford CoreNLP 3.4 with minor fixes.
 
 including below dependency:
 
@@ -39,16 +39,16 @@ including below dependency:
     <dependency>
         <groupId>com.guokr</groupId>
         <artifactId>stan-cn-ner</artifactId>
-        <version>0.0.4</version>
+        <version>0.0.6</version>
     </dependency>
 ```
 * leiningen:
 ```clojure
-    [com.guokr/stan-cn-ner "0.0.4"]
+    [com.guokr/stan-cn-ner "0.0.6"]
 ```
 * sbt:
 ```scala
-    libraryDependencies += "com.guokr" % "stan-cn-ner" % "0.0.4"
+    libraryDependencies += "com.guokr" % "stan-cn-ner" % "0.0.6"
 ```
 
 Simplified API
